@@ -9,7 +9,7 @@ The goal was to replicate the given design as closely as possible.
 
 ## 🔗 Live Demo
 
-👉 Live Site: 
+👉 Live Site: https://dhivagar-dev.github.io/qr-code-component-main/
 👉 GitHub Repo: https://github.com/dhivagar-dev/qr-code-component-main.git
 
 ## 🛠 Built With
